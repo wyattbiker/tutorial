@@ -2,7 +2,9 @@
 
 $${\color{red}}$$
 
-$$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$$
+
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 
 ### Place 1
 
