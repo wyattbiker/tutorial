@@ -2,7 +2,7 @@
 
 $${\color{red}Test Markdown Color}$$
 
-$${\textsf{\color{red}Welcome} \color{lightblue}To \color{orange}Stackoverflow}$$
+$${\color{red}Welcome  \color{lightblue}To  \color{orange}Stackoverflow}$$
 
 $${\textsf{\color{lightgreen}Green}}$$
 
