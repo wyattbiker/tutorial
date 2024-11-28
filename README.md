@@ -1,5 +1,5 @@
 ## Title2
-
+$${\color{red}Red}$$
 ### Place 1
 
 <span style="color: #e03e2d;">Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.</span>
