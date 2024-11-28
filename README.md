@@ -4,7 +4,7 @@ $${\color{red}Test Markdown Color}$$
 
 $${\color{red}Welcome\space\color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-${\textsf{\color{lightgreen}Green}}$
+$${\textsf{\color{lightgreen}Green}}$$
 
 ### Place 1
 
