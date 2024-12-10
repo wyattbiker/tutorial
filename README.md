@@ -2,13 +2,13 @@
 
 $${\color{red}Test Markdown Color}$$
 
-$${\textsf{\color{red}Welcome  \color{lightblue}To  \color{orange}Stackoverflow}}$$
+$${\textsf{\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}}$$
 
 $${\textsf{\color{lightgreen}Green}}$$
 
 ### Place 1
 
-<span style="color: #e03e2d;">Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.</span>
+<span style="color: #e03e2d;">Hello, this is some text to fill in this, [here](#section_id), is a link to the second place.</span>
 
 * * *
 
@@ -44,6 +44,7 @@ Some test goes here
 
 Some test goes here
 
+<a id="section_id"></a>
 ### Place 2
 
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
