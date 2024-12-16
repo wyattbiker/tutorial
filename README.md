@@ -1,4 +1,4 @@
-# $${\color{red}Title 1 Markdown Color}$$
+# $${\color{red}Title 1  Markdown Color}$$
 
 ## Title2
 
