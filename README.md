@@ -1,3 +1,5 @@
+# $${\color{red}Title 1 Markdown Color}$$
+
 ## Title2
 
 ## $${\color{red}Test Markdown Color}$$
