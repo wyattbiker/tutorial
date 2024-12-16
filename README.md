@@ -1,8 +1,6 @@
 ## Title2
 
-<code style="color : blue">text</code>
-
-$${\color{red}Test Markdown Color}$$
+## $${\color{red}Test Markdown Color}$$
 
 $${\textsf{\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}}$$
 
