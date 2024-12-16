@@ -2,7 +2,7 @@
 
 ## $${\color{red}Title 1 \space Centered Markdown Color}$$
 
-## ${\color{red}Title 1 \space Left Markdown Color}$
+# ${\color{red}Title 1 \space Left Markdown Color}$
 
 
 ## Title2
