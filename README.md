@@ -21,7 +21,7 @@ ${\color{red}Title 3 \space Left Markdown Color}$$
 
 ## ${\color{red}Test Markdown Color}$
 
-$${\textsf{\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}}$$
+## $${\textsf{\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}}$$
 
 $${\textsf{\color{lightgreen}Green}}$$
 
