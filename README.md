@@ -2,7 +2,7 @@
 
 Some body text of this section.
 
-<a name="my-custom-anchor-point"></a>
+<a id="my-custom-anchor-point"></a>
 Some text I want to provide a direct link to, but which doesn't have its own heading.
 
 
