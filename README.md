@@ -1,13 +1,17 @@
+# Section Heading
 
-<html>
-<h1>
-<p align="center">
-  test
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
   
-  # $${\color{red}Title 1 \space Centered Markdown Color}$$
-</p>
-</h1>
-
 ${\color{red}Title 2 \space Centered Markdown Color}$
 
 ${\color{red}Title 3 \space Left Markdown Color}$$
@@ -69,3 +73,4 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 * * *
 
 &nbsp;
+[A link to that custom anchor](#my-custom-anchor-point)
