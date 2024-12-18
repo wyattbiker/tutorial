@@ -1,9 +1,17 @@
 
+<html>
+<h1>
+<p align="center">
+  test
+  
+  # $${\color{red}Title 1 \space Centered Markdown Color}$$
+</p>
+</h1>
 
-## $${\color{red}Title 1 \space Centered Markdown Color}$$
+${\color{red}Title 2 \space Centered Markdown Color}$
 
-# ${\color{red}Title 1 \space Left Markdown Color}$
-
+${\color{red}Title 3 \space Left Markdown Color}$$
+</p>
 
 ## Title2
 
