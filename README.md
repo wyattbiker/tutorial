@@ -19,7 +19,7 @@ ${\color{red}Title 3 \space Left Markdown Color}$$
 
 ## Title2
 
-## $${\color{red}Test Markdown Color}$$
+## ${\color{red}Test Markdown Color}$
 
 $${\textsf{\color{red}Welcome \color{lightblue}To \color{orange}Stackoverflow}}$$
 
