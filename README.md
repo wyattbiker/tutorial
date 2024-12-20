@@ -3,13 +3,15 @@
     a simple
       indented code block
 
-<table><tr><td>
-<pre>
-**Hello**,
+<style
+  type="text/css">
+h1 {color:red;}
 
-_world_.
-</pre>
-</td></tr></table>
+p {color:blue;}
+</style>
+okay
+
+
 
 Foo
 Bar
