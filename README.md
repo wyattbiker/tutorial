@@ -3,15 +3,13 @@
     a simple
       indented code block
 
-<style
-  type="text/css">
-h1 {color:red;}
+ <div>
+  *hello*
+         <foo><a>
 
-p {color:blue;}
-</style>
-okay
-
-
+$${\section{εισαγωγή}
+Αυτό είναι το πρώτο τμήμα του εγγράφου. 
+Είναι μια εισαγωγική παράγραφος.}$$
 
 Foo
 Bar
