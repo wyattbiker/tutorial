@@ -1,10 +1,19 @@
 # Section Heading
 
+Foo
+Bar
+---
+
 Some body text of this section.
 
 <a id="my-custom-anchor-point"></a>
 Some text I want to provide a direct link to, but which doesn't have its own heading.
 
+This is a simple example, $${\textsf{\Huge this will show different font sizes}}$$ and also $${\textsf{different font styles}}$$.
+
+In this example the $${\huge huge font size}$$ is set and 
+the $${\footnotesize Foot note size also}$$. There's a fairly 
+large set of font sizes.
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -25,7 +34,10 @@ ${\color{red}Title 3 \space Left Markdown Color}$$
 
 #### $${\textsf{\color{lightgreen}Green Words}}$$
 
-$${\textsf{\color{lightgreen}{\Huge}Green Words}}$$
+$${{\color{DarkBlue}\Huge{\textsf{  Hi\ there\ \}}}}$$
+
+$${\Large text}$$
+$${\huge huge font size}$$
 
 ### Place 1
 
