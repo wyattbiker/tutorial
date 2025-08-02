@@ -7,6 +7,16 @@
   *hello*
          <foo><a>
 
+$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+
+$$
+\begin{align*}
+regular text
+\textbf{hello\\\\hi}
+regular text
+\end{align*}
+$$
+
 $${\section{εισαγωγή}
 Αυτό είναι το πρώτο τμήμα του εγγράφου. 
 Είναι μια εισαγωγική παράγραφος.}$$
