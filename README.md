@@ -17,9 +17,10 @@ c   & ddd
 $$
 
 $$
-\begin{align}\huge\text{
+\begin{align}\huge
 abc \cr xyz \cr
-This is the first line.\cr This is the second line.}
+This is the first line.\cr This is the second line.
+y = \text{if } x > 0 \text{ then } x^2
 \end{align}
 $$
 
