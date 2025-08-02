@@ -20,7 +20,7 @@ $$
 \begin{align}\huge
 abc \cr xyz \cr
 This is the first line.\cr This is the second line. \cr
-y = \text{if } x > 0 \text{ then } x^2
+y = \text{if } x > 0 \text{ then \cr} x^2
 \end{align}
 $$
 
