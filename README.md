@@ -17,7 +17,7 @@ c   & ddd
 $$
 
 $$
-\textsf{abc xyz}\cr
+\textsf{abc\cr xyz}
 \textsf{This is the first line.\linebreak This is the second line.}
 $$
 
