@@ -9,10 +9,12 @@
 
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
-$A =  \begin{align*}
+$
+A =  \begin{align*}
 1 & 2 \\\\
 3 & 4
-\end{align*}$
+\end{align*}
+$
 
 $$
 \textsf{abc \n xyz}
