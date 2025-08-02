@@ -19,7 +19,7 @@ $$
 $$
 \begin{align}
 abc \cr xyz \cr
-This is the first line.\linebreak This is the second line.
+This is the first line.\cr This is the second line.
 \end{align}
 $$
 
