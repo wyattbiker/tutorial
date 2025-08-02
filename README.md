@@ -10,10 +10,10 @@
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
 $$
-\begin{align*}
+
 \textsf{abc \\ xyz}
 \textsf{This is the first line.\linebreak This is the second line.}
-\end{align*}
+
 $$
 
 $${\section{εισαγωγή}
