@@ -17,8 +17,10 @@ c   & ddd
 $$
 
 $$
+\begin{align}
 abc \cr xyz
 This is the first line.\linebreak This is the second line.
+\end{align}
 $$
 
 $${\section{εισαγωγή}
