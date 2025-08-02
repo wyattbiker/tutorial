@@ -17,7 +17,7 @@ c   & ddd
 $$
 
 $$
-\begin{align}\huge\textsf{
+\begin{align}\huge\text{
 abc \cr xyz \cr
 This is the first line.\cr This is the second line.}
 \end{align}
