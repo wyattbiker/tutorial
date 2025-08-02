@@ -8,11 +8,14 @@
          <foo><a>
 
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
-
-$\begin{align*}A = 1 & 2 \\\\ 3 & 4\end{align*}$
-
 $$
-\textsf{abc \n xyz}
+\begin{bmatrix}
+aaa & b\cr
+c   & ddd
+\end{bmatrix}
+$$
+$$
+\textsf{abc xyz}
 \textsf{This is the first line.\linebreak This is the second line.}
 $$
 
